@@ -1,0 +1,30 @@
+V1.4.1
+- Update social share system
+
+v. 1.4
+
+Responsive optimisation
+
+- fixed pre-header height 
+- fixed '.imgRounded' size
+- fixed 'search input'width
+
+
+v. 1.3
+- fixed conflict with toTop plugin
+- added twitter timeline
+- added mailchimp plugin
+
+
+v. 1.2
+- fixed camera plugin blank content on small widhts, inside a page.
+- fixed menu style 1, style 4, Removed padding on small widths.
+- Fixed, wrong google font include in portfolio single templates
+
+
+
+
+V. 1.1
+- fixed google map loading issue in 'Contact' templates
+
+
